@@ -8,8 +8,7 @@ Electronic 3Dprinted magnetic tactile sensing flesh
 This is a most engrossing and fascinating technology in a 3D printing with comes under the additive manufacturing, which sense the touch like human hand sensations.
 
 
-This working principle and method is that it converts the mechanical force/stress intpo the electronic signal . 
-
+This working principle and method is that : it converts the mechanical touching force/stress into the electronic signal . 
 
 
 This electronic flash is made up of magnetic ductile sensor which sense the every touchings in a real life and environment in the world 
