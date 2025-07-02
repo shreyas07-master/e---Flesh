@@ -69,7 +69,7 @@ Uses accessible materials like:
 
 Hobbyist 3D printer
 
-Off-the-shelf magnets less than 4480to 500 rupees
+Off-the-shelf magnets less than 480 to 500 rupees
 
 Simple magnetometer circuit board to check magnetivity
 
