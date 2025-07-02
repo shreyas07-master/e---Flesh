@@ -5,7 +5,10 @@ Electronic 3Dprinted magnetic tactile sensing flesh
 ![image](https://github.com/user-attachments/assets/392c10fb-eb04-467e-8412-dfb7e3302157)
 
 
-This is a most engrossing and fascinating technology in a 3D printing with comes under the additive manufacturing
+This is a most engrossing and fascinating technology in a 3D printing with comes under the additive manufacturing, which sense the touch like human hand sensations.
+
+
+This working principle and method is that it converts the mechanical force/stress intpo the electronic signal . 
 
 
 
@@ -16,7 +19,7 @@ This electronic flash is made up of magnetic ductile sensor which sense the ever
  ![image](https://github.com/user-attachments/assets/9b09233e-1aaf-4798-b310-c2178582320a)
 
  
-A micro structural material printing is a method using the different filaments to print into desired model which it is included with the different living microorganisms which is used to contact with the real life touch sensing nature 
+It involves a micro structural material printing which is a method using the different filaments to print into desired model which it is included with the different living microorganisms which is used to contact with the real life touch sensing nature 
 Already at Japanese and other international Institute of Technology student has been developed and innovated an electronics skin which is very sensitive and easily contactable with the human nature and it is a best example in a biomecked human - robot interaction
 
 
