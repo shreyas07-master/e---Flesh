@@ -25,7 +25,7 @@ This electronic flash is made up of magnetic ductile sensor which sense the ever
 It involves a micro structural material printing which is a method using the different filaments to print into desired model which it is included with the different living microorganisms which is used to contact with the real life touch sensing nature 
 
 
-Already at Japanese and other international Institute of Technology student has been developed and innovated an electronics skin which is very sensitive and easily contactable with the human nature and it is a best example in a biomecked human - robot interaction
+Already in Japanese institutes and research& development labs and in other international Institute of Technology student has been developed and innovated an electronics skin which is very sensitive and easily contactable with the human nature and it is a best example in a biomimicked human - robot interaction
 
 
 
